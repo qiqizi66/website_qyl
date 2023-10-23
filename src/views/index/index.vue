@@ -23,11 +23,12 @@
     </div>
     <div id="bannered" class="banner">
       <img class="banner_img" src="/assets/banner.png" alt="" />
-      <div class="banner_all">
+      <img class="banner_imgm" src="/assets/banner_m.png" alt="" />
+      <!-- <div class="banner_all">
         <p class="banner_title">北京明信益达科技有限公司</p>
         <p class="banner_text">专注心理学服务</p>
         <div class="banner_btn">选择服务</div>
-      </div>
+      </div> -->
     </div>
     <div id="psychological_tendencyed" class="psychological_tendency">
       <p class="psychological_tendency_title">

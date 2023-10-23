@@ -119,6 +119,7 @@
 
     .banner {
       width: 100%;
+      height: 950px;
       position: relative;
       display: flex;
       align-items: center;
@@ -130,6 +131,10 @@
         top: 0;
         left: 0;
         z-index: 1;
+      }
+
+      .banner_imgm {
+        display: none;
       }
 
       .banner_all {
